@@ -1,2 +1,2 @@
 # hello-world
-Just learning
+Just learning Python,scikit-learn,flask,etc
